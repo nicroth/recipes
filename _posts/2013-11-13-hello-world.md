@@ -1,9 +1,6 @@
 ---
 layout: post
-title: "Hello World"
-description: ""
-category: ""
-tags: []
+title: Hello World
 ---
 
 This is the first post. 
