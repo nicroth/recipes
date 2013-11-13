@@ -159,6 +159,11 @@ body
 		font-size: 14px;
 	}
 
+	.post_listing h1
+	{
+		margin: 0px 0 0px 0;
+	}
+
 	.post_listing time
 	{
 		font-size: 10px;
