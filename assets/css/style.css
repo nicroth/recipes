@@ -1,0 +1,160 @@
+body
+{
+	background: #FFFFFF;
+	font-family: "PT Serif";
+}
+
+.post_listing
+{
+	font: 400 18px/30px ;
+	width: 460px;
+	margin: 0 auto;
+}
+
+.post_listing h1
+{
+	font: 700 48px/48px "PT Sans Narrow";
+	text-transform: uppercase;
+	margin: 100px 0 100px 0;
+}
+
+.post_stub
+{
+	text-transform: uppercase;
+	padding: 25px 0 5px 0;
+	border-bottom: 1px solid #E9E9E9;
+}
+
+.post_stub a 
+{
+	font: 400 18px/22px "PT Serif";
+	color: #2A2C39;
+	text-decoration: none;
+}
+
+.post_stub a:hover
+{
+	color: #666666;
+}
+
+.post_stub time
+{
+	font: 400 12px/22px "PT Serif";
+	float: right;
+	color: #999999;
+}
+
+
+/*
+*** Recipe post page
+*/
+.feature
+{
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	top:0;
+	left: 0;
+	background: no-repeat center center ;
+	background-size: cover;
+	z-index: 0;
+}
+
+.post
+{
+	width: 260px;
+	margin: 0 auto 40px auto;
+	padding: 40px;
+	position: absolute;
+	top: 80px;
+	right: 80px;
+
+	font: 400 14px/18px "PT Serif";
+	color: #666666;
+	background: #fff;
+
+	z-index: 20;
+}
+
+.post h1
+{
+	font: 700 32px/32px "PT Sans Narrow";
+	text-transform: uppercase;
+	margin: 0;
+	padding: 0;
+	color: #000000;
+}
+
+.post h4
+{
+	font: 700 18px/18px "PT Sans Narrow";
+	text-transform: uppercase;
+	margin: 20px 0 0 0;
+	padding: 0;
+	color: #000000;
+}
+
+.post hr 
+{
+	background: #333;
+	border: 0;
+	height: 2px;
+	margin: 12px auto 8px;
+	width: 60px;
+}
+
+.post p
+{
+	font: 400 14px/18px "PT Serif";
+
+	margin: 10px 0 0 0;
+	padding: 0;
+
+	text-align: justify;
+}
+
+.post ul, .post ol
+{
+	padding: 0;
+	margin: 10px 0 0 2px;
+}
+
+.post ul
+{
+	list-style: inside square;
+}
+
+.post ol 
+{
+	list-style: inside decimal;
+}
+
+
+/* "responsive" stuff
+*/
+
+@media only screen and (max-width: 600px) {
+	.feature
+	{
+		width: 100%;
+		height: 300px;
+		position: absolute;
+	}
+
+	.post
+	{
+		top: 300px;
+		left: 50%;
+		margin-left: -170px;
+	}
+}
+
+@media only screen and (max-width: 340px) {
+	.feature
+	{
+		width: 90%;
+		padding: 5%;
+		left: 0;
+		margin-left: 0;
+	}
+}
