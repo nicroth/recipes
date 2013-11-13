@@ -149,11 +149,11 @@ body
 	}
 }
 
-@media only screen and (max-width: 340px) {
-	.feature
+@media only screen and (max-width: 400px) {
+	.post
 	{
-		width: 90%;
-		padding: 5%;
+		width: 80%;
+		padding: 10%;
 		left: 0;
 		margin-left: 0;
 	}
