@@ -15,6 +15,8 @@ This simple recipe puts out a mean stroganoff. Serve with your favorite kind of 
 - 1 tsp. onion powder
 - 1 tsp. garlic powder
 - 1 tbsp. oil
+- 1 tsp. [Nature's Seasons](http://www.mortonsalt.com/for-your-home/culinary-salts/food-salts/24/morton-natures-seasons-seasoning-blend/ "Nature's Seasons") seasoning blend
+- Chili flakes (optional)
 - Fresh ground black pepper
 - Salt
  
