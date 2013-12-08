@@ -4,14 +4,14 @@ title: Stroganoff
 image: stroganoff.jpg
 ---
 
-This simple recipe puts out a mean stroganoff. Serve with your favorite kind of noodles for best results. 
+This simple recipe puts out a mean stroganoff. Serve with your favorite kind of egg noodles for best results. 
 
 
 #### Ingredients
 - 1lb beef 
 - 1 family size can cream of mushroom soup
 - 1 small can sliced mushrooms
-- 1 package noodles
+- 1 package egg noodles
 - 1 tsp. onion powder
 - 1 tsp. garlic powder
 - 1 tbsp. oil
